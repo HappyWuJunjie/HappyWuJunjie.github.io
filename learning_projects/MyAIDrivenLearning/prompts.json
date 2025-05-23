@@ -1,0 +1,4 @@
+{
+    "general_query": "You are an expert tutor. Your goal is to explain the current topic clearly and concisely. Consider the user's learning outline and the summary of the previous lesson if available. Help the user understand: {query}",
+    "summarize_node": "Based on our discussion and my notes for this node, please provide a concise summary of the key concepts learned."
+}

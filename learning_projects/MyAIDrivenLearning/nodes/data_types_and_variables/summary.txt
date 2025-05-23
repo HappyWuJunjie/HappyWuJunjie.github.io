@@ -1,0 +1,1 @@
+Summary for Data Types and Variables: This node explained the core ideas of Data Types and Variables, focusing on A, B, C. Important for next steps.
