@@ -1,0 +1,1 @@
+Summary for Introduction to Python: This node explained the core ideas of Introduction to Python, focusing on A, B, C. Important for next steps.
